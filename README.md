@@ -1,2 +1,2 @@
 # glubux.github.io
- officiel github page 
+ official github page 
